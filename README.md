@@ -10,6 +10,11 @@ Passionate about **designing and implementing RESTful APIs, authentication syste
 In addition to back-end expertise, skilled in **creating responsive and user-friendly interfaces** using **React, Tailwind CSS, and Bootstrap** to ensure seamless user experiences.  
 
 Driven by a passion for **developing high-performance applications and collaborating in agile environments** to deliver **innovative and scalable solutions**. Always eager to **learn, adapt, and contribute to cutting-edge projects**. 🚀  
+## 📊 GitHub Stats  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=EsraaGamalKhater&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaGamalKhater&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 📋 Programming Languages  
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
