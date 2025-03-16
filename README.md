@@ -1,6 +1,6 @@
 # Hi there, I'm Esraa Gamal! 👋  
 
-🚀 **Software Engineer | Back-End Developer (MEAN Stack)**  
+🚀 **Software Engineer | Back-End Developer (Node.js)**  
 
 A highly motivated **Back-End Developer** specializing in **Node.js, Express, and MongoDB**, with a strong focus on building **scalable and high-performance web applications**.  
 🚀 **Open to Back-End Development & MEAN Stack opportunities**  
