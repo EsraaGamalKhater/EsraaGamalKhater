@@ -46,7 +46,7 @@ Driven by a passion for **developing high-performance applications and collabora
 <img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 <img align="left" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
-
+<br/><br/><br/>
 ---
 ## 📊 GitHub Stats  
 <img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaGamalKhater&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
