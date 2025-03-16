@@ -11,7 +11,6 @@ In addition to back-end expertise, skilled in **creating responsive and user-fri
 
 Driven by a passion for **developing high-performance applications and collaborating in agile environments** to deliver **innovative and scalable solutions**. Always eager to **learn, adapt, and contribute to cutting-edge projects**. 🚀  
 ## 📊 GitHub Stats  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=EsraaGamalKhater&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 <img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaGamalKhater&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
