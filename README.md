@@ -11,12 +11,7 @@ In addition to back-end expertise, skilled in **creating responsive and user-fri
 
 Driven by a passion for **developing high-performance applications and collaborating in agile environments** to deliver **innovative and scalable solutions**. Always eager to **learn, adapt, and contribute to cutting-edge projects**. 🚀  
 
----
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
----
+<br/><br/>
 
 ## 📋 Programming Languages  
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
